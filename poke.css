@@ -1,0 +1,14 @@
+body {
+	 background-image: url("F:/Chitra Raj/docs/web development/projects/pokemon/1440.jpg");
+background-size: 100%;
+ background-color:lightgreen;
+	 }
+
+
+
+#but{
+  position: relative;
+  top: 703px;
+  left: 200px;
+  bottom:10px
+}
